@@ -11,5 +11,5 @@ My name is Krishaan Patel and I'm a Computer Science student in Southern Califor
 
 📫 How to reach me: kpate403050@gmail.com | https://www.linkedin.com/in/krishaan-patel/
 
-💬 Check out my website: ...
+💬 Check out my website: https://kpate135.github.io/
 
