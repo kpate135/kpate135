@@ -9,7 +9,7 @@ My name is Krishaan Patel and I'm a Computer Science student in Southern Califor
 - **Undergraduate Research Assistant at UCR (Winter 2018)** - Developing computer models for representing several data sets.
 
 
-📫 How to reach me: kpate403050@gmail.com | https://www.linkedin.com/in/krishaan-patel/
+📫 How to reach me: kpate403050@gmail.com | https://www.linkedin.com/in/krishaanpatel/
 
 💬 Check out my website: https://kpate135.github.io/
 
